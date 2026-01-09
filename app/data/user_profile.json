@@ -1,0 +1,27 @@
+{
+  "gender": "male",
+  "age": 20,
+  "weight_kg": 65.0,
+  "height_cm": 170.0,
+  "activity_level": "medium",
+  "goal": "endurance",
+  "experience_level": "intermediate",
+  "preferred_location": "gym",
+  "available_equipment": [
+    "Коврик",
+    "Гантели",
+    "Скакалка",
+    "Тренажёрный зал"
+  ],
+  "health_issues": [
+    "суставы",
+    "спина",
+    "сердце",
+    "ожирение",
+    "cardio_ihd",
+    "cardio_arrhythmia",
+    "other_pregnancy",
+    "other_post_surgery_general"
+  ],
+  "max_sessions_per_week": 3
+}
